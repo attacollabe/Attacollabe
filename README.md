@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello! I'm Atta-ur-Rehman 👋
 
-<!--
-**attacollabe/Attacollabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a BS Physics student passionate about bridging the gap between physical laws, mathematical modeling, and computation to solve real-world problems.
 
-Here are some ideas to get you started:
+### 🔭 Areas of Focus & Application
+* **Mathematical Modeling:** Applying Differential Equations and Calculus to simulate physical systems and predict their behaviors.
+* **Scientific Computing:** Using Python to translate physics theories into interactive simulations and numerical visualizations.
+* **Data & Analysis:** Working on quantitative data analysis and extracting insights from mathematical frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tools & Technologies
+* **Programming:** Python (NumPy, Matplotlib)
+* **Documentation:** LaTeX / Overleaf (for professional scientific writing & reports)
+* **Version Control:** Git & GitHub
+
+### 🌱 My Goal
+Currently focusing on building a strong foundation in computational physics, looking for collaborative projects, remote tasks, and learning opportunities to gain practical research exposure.
+
+---
+*Feel free to explore my repositories below!*
