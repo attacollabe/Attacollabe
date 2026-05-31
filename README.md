@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Attacollabe/Attacollabe/main/1000514930.png" width="100%" alt="Atta-ur-Rehman Banner">
+</p>
+
 # Hi, I'm Atta-ur-Rehman 👋
 **BS Physics Student | Computational Physics Enthusiast | Python for Scientific Modeling**
 
@@ -26,9 +30,6 @@ I am passionate about connecting physical laws with computational methods to mod
 * **Mathematical Modelling:** Applying differential equations and calculus to simulate physical systems.
 * **Scientific Computing:** Developing numerical visualisations using Python.
 * **Data Analysis:** Extracting insights from mathematical frameworks.
-
-### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Attacollabe&show_icons=true&theme=radical)
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-atta-ur-rehman-83b220270)
